@@ -29,6 +29,7 @@ If you want to get inspiration or just show something directly to your clients, 
 
 * [Demo](#demo)
 * [Quick Start](#quick-start)
+* [Deploy](#deploy)
 * [Documentation](#documentation)
 * [File Structure](#file-structure)
 * [Browser Support](#browser-support)
@@ -106,7 +107,11 @@ If you want to get inspiration or just show something directly to your clients, 
 - Clone from Github: `git clone https://github.com/creativetimofficial/argon-dashboard.git`
 
 
+## Deploy
 
+:rocket: You can deploy your own version of the template to Genezio with one click:
+
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/argon-dashboard-bs4&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
 
 
 ## Documentation
